@@ -59,10 +59,10 @@ gitdb==4.0.10
 gitpython==3.1.31
 google-auth==2.16.1
 google-auth-oauthlib==0.4.6
-gradio==3.39.0
+gradio==5.31.0
 gradio-client==0.3.0
 grpcio==1.51.3
-h11==0.14.0
+h11==0.16.0
 hjson==3.1.0
 httpcore==0.17.3
 httpx==0.24.1
