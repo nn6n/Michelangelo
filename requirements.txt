@@ -210,7 +210,7 @@ tornado==6.2
 tqdm==4.64.1
 traitlets==5.9.0
 traittypes==0.2.1
-transformers==4.30.2
+transformers==4.53.0
 trimesh==3.18.3
 triton==1.1.1
 typing-extensions==4.5.0
@@ -246,3 +246,4 @@ pytorch_lightning~=1.9.3
 git+https://github.com/pyvista/fast-simplification.git
 git+https://github.com/skoch9/meshplot.git
 git+https://github.com/NVlabs/nvdiffrast/
+torch>=2.8.0 # not directly required, pinned by Snyk to avoid a vulnerability
