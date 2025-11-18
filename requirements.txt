@@ -246,3 +246,4 @@ pytorch_lightning~=1.9.3
 git+https://github.com/pyvista/fast-simplification.git
 git+https://github.com/skoch9/meshplot.git
 git+https://github.com/NVlabs/nvdiffrast/
+torch>=2.9.0 # not directly required, pinned by Snyk to avoid a vulnerability
