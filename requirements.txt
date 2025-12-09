@@ -217,7 +217,7 @@ typing-extensions==4.5.0
 typing-inspect==0.9.0
 uc-micro-py==1.0.2
 uri-template==1.2.0
-urllib3==1.26.14
+urllib3==2.6.0
 uvicorn==0.23.2
 wandb==0.13.10
 wcwidth==0.2.6
