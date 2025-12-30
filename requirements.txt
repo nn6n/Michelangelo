@@ -210,7 +210,7 @@ tornado==6.2
 tqdm==4.64.1
 traitlets==5.9.0
 traittypes==0.2.1
-transformers==4.30.2
+transformers==5.0.0rc1
 trimesh==3.18.3
 triton==1.1.1
 typing-extensions==4.5.0
