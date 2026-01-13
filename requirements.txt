@@ -46,7 +46,7 @@ executing==1.2.0
 fastapi==0.101.0
 fastjsonschema==2.16.2
 ffmpy==0.3.1
-filelock==3.9.0
+filelock==3.20.3
 flask==2.2.3
 flatbuffers==23.5.26
 fonttools==4.38.0
@@ -217,7 +217,7 @@ typing-extensions==4.5.0
 typing-inspect==0.9.0
 uc-micro-py==1.0.2
 uri-template==1.2.0
-urllib3==1.26.14
+urllib3==2.6.3
 uvicorn==0.23.2
 wandb==0.13.10
 wcwidth==0.2.6
@@ -226,7 +226,7 @@ webdataset==0.2.33
 webencodings==0.5.1
 websocket-client==1.5.1
 websockets==11.0.3
-werkzeug==2.2.3
+werkzeug==3.1.5
 widgetsnbextension==4.0.5
 wrapt==1.15.0
 xatlas==0.0.7
@@ -246,3 +246,4 @@ pytorch_lightning~=1.9.3
 git+https://github.com/pyvista/fast-simplification.git
 git+https://github.com/skoch9/meshplot.git
 git+https://github.com/NVlabs/nvdiffrast/
+torch>=2.9.0 # not directly required, pinned by Snyk to avoid a vulnerability
